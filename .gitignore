@@ -3,6 +3,8 @@
 *.Rcheck/
 **/__pycache__/
 
+pykan/
+
 ########################
 # Archivos que NO ignora
 
